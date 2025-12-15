@@ -1,0 +1,13 @@
+﻿<meta>
+    <info author="Daeman" version="17-12-22" type="script" name="Donate Giving System" />
+	<include resource="config" />
+	
+	
+	<script src="client.luac" type="client" />
+	<!-- <script src="client.lua" type="client" cache="false"/> -->
+	
+	
+	<script src="server.lua" type="server" />
+	
+	<file src="sound.mp3" type="client"/>
+</meta>
