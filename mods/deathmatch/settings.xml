@@ -1,0 +1,20 @@
+<settings>
+    <setting name="police_speedcameras.ID" value="[5864816]"></setting>
+    <setting name="admin.ip2cUpdateTime" value="[1765795093]"></setting>
+    <setting name="police_speedcameras.offset_prev" value="[734]"></setting>
+    <setting name="police_speedcameras.offset_next" value="[732]"></setting>
+    <setting name="police_speedcameras.offset_both" value="[821]"></setting>
+    <setting name="police_speedcameras.offset_none" value="[ 641 ]"></setting>
+    <setting name="database_backup.lastBackup" value="[1488192874]"></setting>
+    <setting name="donate.lastID" value="[290013]"></setting>
+    <setting name="autorestart.lastAutoRestart" value="[345]"></setting>
+    <setting name="database_backup.lastBackupDay" value="[348]"></setting>
+    <setting name="bank.lastTransferReset" value="[1765795081]"></setting>
+    <setting name="car_driving_school.drivingLicensesConverted" value="[true]"></setting>
+    <setting name="job_taxi.flagsDeleted" value="[true]"></setting>
+    <setting name="*admin.maxmsgs" value='[&quot;15&quot;]'></setting>
+    <setting name="police_ccd.lastPay" value="[348]"></setting>
+    <setting name="save_system.databaseConverted" value="[true]"></setting>
+    <setting name="*freeroam.vehicles/idleexplode" value='[&quot;false&quot;]'></setting>
+    <setting name="*hedit.enable_maxVelocity" value='[&quot;false&quot;]'></setting>
+</settings>
